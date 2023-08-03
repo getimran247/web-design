@@ -5,6 +5,10 @@ How to register, some important rules to follow, which repos to contribute and o
 
 
 
+https://theosrswiki.com
+
+<a href="https://theosrswiki.com">Official Site of OSRS Wiki</a>
+
 If above link doesn't work watch here.
 
 Hacktoberfest 2021 Special
